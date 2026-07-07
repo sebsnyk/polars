@@ -16,3 +16,4 @@ mkdocs-redirects==1.2.1
 material-plausible-plugin==0.3.0
 markdown-exec[ansi]==1.10.0
 pygithub==2.6.1
+pillow>=12.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
