@@ -17,3 +17,4 @@ sphinx-reredirects==0.1.5
 sphinx-toolbox==3.8.1
 
 livereload==2.7.0
+tornado>=6.5.8 # not directly required, pinned by Snyk to avoid a vulnerability
