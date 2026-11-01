@@ -75,3 +75,4 @@ flask-cors
 pandas-stubs
 boto3-stubs
 google-auth-stubs
+pyasn1>=0.6.5 # not directly required, pinned by Snyk to avoid a vulnerability
